@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+eventregistry
+python-eventregistry
+python-dotenv
+os
+json

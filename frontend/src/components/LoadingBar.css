@@ -1,0 +1,13 @@
+.loading-bar-container {
+    width: 100%;
+    background-color: #ddd;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
+  .loading-bar {
+    height: 5px;
+    background-color: #007bff;
+    border-radius: 5px;
+    transition: width 0.3s ease-in-out;
+  }
